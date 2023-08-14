@@ -31,10 +31,10 @@ main()
 
   # Yoru Color Palette
   white='#edeff0'
-  gray='#484a4b'
+  gray='#0c0e0f'
   dark_gray='#27292a'
   light_purple='#c58cec'
-  dark_purple='#bc83e3'
+  dark_purple='#343637'
   cyan='#67afc1'
   green='#78b892'
   orange='#E89982'
@@ -47,7 +47,7 @@ main()
     smiley)
       left_icon="☺";;
     session)
-      left_icon="#S";;
+      left_icon="#H ❯ #S";;
     window)
       left_icon="#W";;
     *)
