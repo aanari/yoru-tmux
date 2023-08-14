@@ -47,7 +47,7 @@ main()
     smiley)
       left_icon="☺";;
     session)
-      left_icon="#H ❯ #S";;
+      left_icon="#h ❯ #S";;
     window)
       left_icon="#W";;
     *)
